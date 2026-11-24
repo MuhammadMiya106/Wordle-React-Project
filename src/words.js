@@ -1,0 +1,22 @@
+export const WORDS = [
+  "CRANE",
+  "PLANT",
+  "BREAD",
+  "SMILE",
+  "GRAPE",
+  "HOUSE",
+  "MUSIC",
+  "LIGHT",
+  "DREAM",
+  "WATER",
+  "APPLE",
+  "TIGER",
+  "STONE",
+  "CLOUD",
+  "BEACH",
+  "CHAIR",
+  "TRAIN",
+  "SWEET",
+  "HEART",
+  "WORLD"
+];
